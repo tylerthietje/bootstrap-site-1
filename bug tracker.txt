@@ -1,0 +1,3 @@
+Bugs:
+1. Fix images not loading
+2. "Explore my other books" sidebar doesn't appear when link is clicked.
